@@ -17,6 +17,3 @@ pip install opencv-python numpy matplotlib
 jupyter lab demo.ipynb
 ```
 
-## License
-
-MIT
